@@ -2,65 +2,65 @@
   "player_found": {
     "1": {
       "default": "Players Info",
-      "translated": ""
+      "translated": "Spieler Info"
     },
     "2": {
       "default": "Found in Game Name:",
-      "translated": ""
+      "translated": "Name im Spiel gefunden:"
     },
     "3": {
       "default": "First seen:",
-      "translated": ""
+      "translated": "Zuerst gesehen:"
     },
     "4": {
       "default": "Last seen:",
-      "translated": ""
+      "translated": "Zuletzt gesehen:"
     },
     "5": {
       "default": "Steam ID:",
-      "translated": ""
+      "translated": "Steam ID"
     },
     "6": {
       "default": "Eos ID:",
-      "translated": ""
+      "translated": "Eos ID"
     }
   },
   "myweapons": {
     "1": {
       "default": "Squad Top Weapons player stats all-time.",
-      "translated": ""
+      "translated": "Beste Squad-Waffen: Spielerstatistiken gesamt."
     },
     "2": {
       "default": "Squad Top Weapons player stats for the Last 30 days.",
-      "translated": ""
+      "translated": "Beste Squad-Waffen: Spielerstatistiken der letzten 30 Tage."
     },
     "3": {
       "default": "Squad Top Weapons player stats for the Last 7 days.",
-      "translated": ""
+      "translated": "Beste Squad-Waffen: Spielerstatistiken der letzten 7 Tage."
     },
     "4": {
       "default": "Squad Top Weapons player stats for the Last 24 hours.",
-      "translated": ""
+      "translated": "Beste Squad-Waffen: Spielerstatistiken der letzten 24 Stunden."
     },
     "5": {
       "default": "TOP WEAPONS",
-      "translated": ""
+      "translated": "BESTE WAFFEN"
     },
     "6": {
       "default": "Weapon Kills",
-      "translated": ""
+      "translated": "Waffenabschuesse"
     },
     "7": {
       "default": "Weapon:",
-      "translated": ""
+      "translated": "Waffe:"
     },
     "8": {
       "default": "Total of",
-      "translated": ""
+      "translated": "Insgesamt"
     },
     "9": {
       "default": "Kills",
-      "translated": ""
+      "translated": "Abschuesse"
     },
     "10": {
       "default": "Weapon Deaths:",
@@ -70,1483 +70,1482 @@
   "serverstats": {
     "1": {
       "default": "Squad server Stats all-time.",
-      "translated": "Squad-Server-Statistiken aller Zeiten."
+      "translated": "Squad-Server-Statistiken aller durationen."
     },
     "2": {
       "default": "Squad server Stats for the Last 30 days.",
-      "translated": "Squad-Server-Statistiken für die letzten 30 Tage."
+      "translated": "Squad-Server-Statistiken der letzten 30 Tage."
     },
     "3": {
       "default": "Squad server Stats for the Last 7 days.",
-      "translated": "Squad-Server-Statistiken für die letzten 7 Tage."
+      "translated": "Squad-Server-Statistiken der letzten 7 Tage."
     },
     "4": {
       "default": "Squad server Stats for the Last 24h.",
-      "translated": "Squad-Server-Statistiken für die letzten 24 Stunden."
+      "translated": "Squad-Server-Statistiken der letzten 24 Stunden."
     },
     "5": {
       "default": "Server kill Stats",
-      "translated": ""
+      "translated": "Server Abschuss-Statistik"
     },
     "6": {
       "default": "Total Kills",
-      "translated": ""
+      "translated": "Gesamtanzahl Abschuesse"
     },
     "7": {
       "default": "Total Deaths",
-      "translated": ""
+      "translated": "Gesamtanzahl Tode"
     },
     "8": {
       "default": "Total Wounds",
-      "translated": ""
+      "translated": "Gesamtanzahl Verwundete"
     },
     "9": {
       "default": "Teamplayer Stats",
-      "translated": ""
+      "translated": "Teamplayer-Statistiken"
     },
     "10": {
       "default": "Teamkills",
-      "translated": ""
+      "translated": "Teamkills"
     },
     "11": {
       "default": "Total Revives",
-      "translated": ""
+      "translated": "Gesamtanzahl Wiederbelebungen"
     },
     "12": {
       "default": "Knifekills",
-      "translated": ""
+      "translated": "Abschuesse mit dem Messer"
     },
     "13": {
       "default": "Favorites",
-      "translated": ""
+      "translated": "Favoriten"
     },
     "14": {
       "default": "Favorite Weapon",
-      "translated": ""
+      "translated": "Bevorzugte Waffe"
     },
     "15": {
       "default": "Favorite Map",
-      "translated": ""
+      "translated": "Bevorzugte Map"
     },
     "16": {
       "default": "Top Victim / Top Nemesis",
-      "translated": ""
+      "translated": "Haeufigstes Opfer / Haeufigster Erzfeind"
     },
     "17": {
       "default": "Top Revive / Top Revived",
-      "translated": ""
+      "translated": "Meiste Wiederbelebungen / Am häufigsten wiederbelebt"
     },
     "18": {
       "default": "Want more information on player stats?",
-      "translated": ""
+      "translated": "Du moechstest mehr Information zu Spielerstatistiken?"
     },
     "19": {
       "default": "Use {command}",
-      "translated": ""
+      "translated": "Nutze {counter}"
     },
     "20": {
       "default": "Unknown",
-      "translated": ""
+      "translated": "Unbekannt"
     },
     "21": {
       "default": "is killed {counter} times",
-      "translated": ""
+      "translated": "Wurde {counter}-mal getoetet"
     },
     "22": {
       "default": "killed {counter} players",
-      "translated": ""
+      "translated": "Hat {counter} Spieler getoetet"
     },
     "24": {
       "default": "revived {counter} players",
-      "translated": ""
+      "translated": "Hat {counter} Spieler wiederbelebt"
     },
     "23": {
       "default": "is revived {counter} times",
-      "translated": ""
+      "translated": "Wurde {counter} -mal wiederbelebt"
     }
   },
   "leaderboard_default": {
     "1": {
       "default": "Leaderboard kill/death AllTime.",
-      "translated": ""
+      "translated": "Bestenliste Abschuesse/Tode Aller durationen."
     },
     "2": {
       "default": "Leaderboard kill/death for the Last 30 days.",
-      "translated": ""
+      "translated": "Bestenliste Abschuesse/Tode der letzten 30 Tage."
     },
     "3": {
       "default": "Leaderboard kill/death for last week.",
-      "translated": ""
+      "translated": "Bestenliste Abschuesse/Tode der letzten Woche."
     },
     "4": {
       "default": "Leaderboard kill/death for the last 24h.",
-      "translated": ""
+      "translated": "Bestenliste Abschuesse/Tode der letzten 24 Stunden."
     },
     "5": {
       "default": "TOP 10",
-      "translated": ""
+      "translated": "TOP 10"
     },
     "6": {
       "default": "Kills",
-      "translated": ""
+      "translated": "Abschuesse"
     },
     "7": {
       "default": "and",
-      "translated": ""
+      "translated": "und"
     },
     "8": {
       "default": "deaths",
-      "translated": ""
+      "translated": "Tode"
     }
   },
   "mysqstatsbyid": {
     "1": {
       "default": "The value is not an SteamID.",
-      "translated": ""
+      "translated": "Der Wert ist keine SteamID."
     },
     "2": {
       "default": "Please make sure you use the SteamID64.",
-      "translated": ""
+      "translated": "Bitte stelle sicher, dass du die SteamID64 benutzt."
     },
     "3": {
       "default": "Or use {command} to begin linking your account.",
-      "translated": ""
+      "translated": "Oder nutze {command} um mit dem Verknuepfen deines Accounts zu beginnen."
     },
     "4": {
       "default": "Want more information on player stats?",
-      "translated": ""
+      "translated": "Du moechstest mehr Information zu Spielerstatistiken?"
     },
     "5": {
       "default": "Use {command}",
-      "translated": ""
+      "translated": "Nutze {command}"
     },
     "6": {
       "default": "No user data found for the specific SteamID.",
-      "translated": ""
+      "translated": "Keine Nutzerdaten fuer diese spezifische SteamID."
     },
     "7": {
       "default": "Please use {command} to begin linking your account.",
-      "translated": ""
+      "translated": "Bitte nutze {command} um mit dem Verknuepfen deines Accounts zu beginnen."
     }
   },
   "mysqstats": {
     "1": {
       "default": "Your Discord Account is not linked to an In Game Account.",
-      "translated": ""
+      "translated": "Dein Discord Account ist nicht mit einem Spiel-Account verknuepft."
     },
     "2": {
       "default": "Please use {command} to begin linking your account.",
-      "translated": ""
+      "translated": "Bitte nutze {command} um mit dem Verknuepfen deines Accounts zu beginnen."
     },
     "3": {
       "default": "Or use {command}",
-      "translated": ""
+      "translated": "Oder nutze {command]"
     },
     "4": {
       "default": "Command:",
-      "translated": ""
+      "translated": "command:"
     },
     "5": {
       "default": "Want more information on player stats?",
-      "translated": ""
+      "translated": "Du moechstest mehr Information zu Spielerstatistiken?"
     },
     "6": {
       "default": "{option}",
-      "translated": ""
+      "translated": "{option}"
     },
     "7": {
       "default": "{duration}: Return all time stats",
-      "translated": ""
+      "translated": "{duration}: Gesamtstatistiken anzeigen "
     },
     "8": {
       "default": "{duration}: Return montly stats. (30 days)",
-      "translated": ""
+      "translated": "{duration}: Monatliche Statistik anzeigen. (30 Tage)"
     },
     "9": {
       "default": "{duration}: Return weekly stats. (7 days)",
-      "translated": ""
+      "translated": "{duration}: Woechentliche Statistik anzeigen. (7 Tage)"
     },
     "10": {
       "default": "{duration}: Return daily stats. (24 hour)",
-      "translated": ""
+      "translated": "{duration}: Taegliche Statistiken anzeigen. (24 Stunden)"
     },
     "11": {
       "default": "If no {option} option is selected, the default is {duration}.",
-      "translated": ""
+      "translated": "Wenn keine {option} option getroffen wurde, ist der Standard {duration}."
     },
     "12": {
       "default": "{option}",
-      "translated": ""
+      "translated": "{option}"
     },
     "13": {
       "default": "{seedoption}: Return stats with seeding data.",
-      "translated": ""
+      "translated": "{seedoption}: Statistiken inklusive Seeding-Daten anzeigen."
     },
     "14": {
       "default": "{seedoption}: Return stats with only seeding data.",
-      "translated": ""
+      "translated": "{seedoption}: Nur Seeding-Statistiken anzeigen."
     },
     "15": {
       "default": "{seedoption}: Return stats without seeding data.",
-      "translated": ""
+      "translated": "{seedoption}: Statistiken ohne Seeding-Daten anzeigen."
     },
     "16": {
       "default": "If no {option} option is selected, the default is {seedoption}.",
-      "translated": ""
+      "translated": "Wenn keine {option} getroffen wurde, ist der Standard {seedoption}"
     },
     "17": {
       "default": "Example:",
-      "translated": ""
+      "translated": "Beispiel:"
     },
     "18": {
       "default": "Return all stats with seed data",
-      "translated": ""
+      "translated": "Alle Statistiken inklusive Seeding-Daten anzeigen."
     },
     "19": {
       "default": "Use {command}",
-      "translated": ""
+      "translated": "Nutze {command}"
     },
     "20": {
       "default": "Squad Player Stats all-time.",
-      "translated": ""
+      "translated": "Squad-Spieler-Gesamtstatistik."
     },
     "21": {
       "default": "Squad Player Stats for the last 30 days.",
-      "translated": ""
+      "translated": "Squad-Spieler-Statistik der letzten 30 Tage."
     },
     "22": {
       "default": "Squad Player Stats for the last 7 days.",
-      "translated": ""
+      "translated": "Squad-Spieler-Statistik der letzten 7 Tage."
     },
     "23": {
       "default": "Squad Player Stats for the last 24 hours.",
-      "translated": ""
+      "translated": "Squad-Spieler-Statistik der letzten 24 Stunden."
     },
     "24": {
       "default": "Players Stats",
-      "translated": ""
+      "translated": "Spieler-Statistiken"
     },
     "25": {
       "default": "Total Kills",
-      "translated": ""
+      "translated": "Abschuesse Gesamt"
     },
     "26": {
       "default": "Total Deaths",
-      "translated": ""
+      "translated": "Tode Gesamt"
     },
     "27": {
       "default": "K/D Ratio",
-      "translated": ""
+      "translated": "K/D Verhaeltnis"
     },
     "28": {
       "default": "Total Wounds",
-      "translated": ""
+      "translated": "Wunden Gesamt"
     },
     "29": {
       "default": "Total Wounded",
-      "translated": ""
+      "translated": "Verwundete Gesamt"
     },
     "30": {
       "default": "Games",
-      "translated": ""
+      "translated": "Runden"
     },
     "31": {
       "default": "Teamkills",
-      "translated": ""
+      "translated": "Team-Abschuesse"
     },
     "32": {
       "default": "Total Revives",
-      "translated": ""
+      "translated": "Wiederbelebungen Gesamt"
     },
     "33": {
       "default": "Knifekills",
-      "translated": ""
+      "translated": "Abschuesse mit dem Messer"
     },
     "34": {
       "default": "Times Teamkilled",
-      "translated": ""
+      "translated": "Anzahle Tode durch Verbuendete"
     },
     "35": {
       "default": "Total Revived",
-      "translated": ""
+      "translated": "Insgesamt wiederbelebt worden"
     },
     "36": {
       "default": "Vehicle kills",
-      "translated": ""
+      "translated": "Zerstoerte Fahrzeuge"
     },
     "37": {
       "default": "Favorites",
-      "translated": ""
+      "translated": "Favoriten"
     },
     "38": {
       "default": "Favorite Weapon",
-      "translated": ""
+      "translated": "Beliebteste Waffe"
     },
     "39": {
       "default": "Favorite Map",
-      "translated": ""
+      "translated": "Beliebteste Karte"
     },
     "40": {
       "default": "Top Victim / Top Nemesis",
-      "translated": ""
+      "translated": "Haeufigstes Opfer / Haeufigster Erzfeind"
     },
     "41": {
       "default": "Top Revive / Top Revived",
-      "translated": ""
+      "translated": "Meiste Wiederbelebungen / Am haeufigsten wiederbelebt"
     },
     "42": {
       "default": "rank #",
-      "translated": ""
+      "translated": "Rang #"
     },
     "43": {
       "default": "Want more information on player stats?",
-      "translated": ""
+      "translated": "Du moechstest mehr Information zu Spielerstatistiken?"
     },
     "44": {
       "default": "Use {command}",
-      "translated": ""
+      "translated": "Nutze {command}"
     },
     "45": {
       "default": "Unknown",
-      "translated": ""
+      "translated": "Unbekannt"
     },
     "46": {
       "default": "is killed {counter} times",
-      "translated": ""
+      "translated": "Wurde {counter}-mal getoetet"
     },
     "47": {
       "default": "is killed by",
-      "translated": ""
+      "translated": "Wurde getoetet von"
     },
     "48": {
       "default": "times",
-      "translated": ""
+      "translated": "-mal"
     },
     "49": {
       "default": "is revived {counter} times",
-      "translated": ""
+      "translated": "Wurde {counter}-mal wiederbelebt"
     },
     "50": {
       "default": "nobody revived",
-      "translated": ""
+      "translated": "Niemanden wiederbelebt"
     },
     "51": {
       "default": "is revived by",
-      "translated": ""
+      "translated": "Wird wiederbelebt von"
     },
     "52": {
       "default": "times",
-      "translated": ""
+      "translated": "-mal"
     },
     "53": {
       "default": "is not revived.",
-      "translated": ""
+      "translated": "wird nicht wiederbelebt."
     },
     "54": {
       "default": "Unknown",
-      "translated": ""
+      "translated": "Unbekannt"
     }
   },
   "linkaccount_warnings": {
     "1": {
       "default": "Account linking.",
-      "translated": ""
+      "translated": "Konto Verknuepfung."
     },
     "2": {
       "default": "This account is not allowed to link.",
-      "translated": ""
+      "translated": "Dieser Account darf nicht verknuepft werden."
     },
     "3": {
       "default": "Please contact an admin if support is needed.",
-      "translated": ""
+      "translated": "Bitte wende dich an einen Admin wenn du Hilfe brauchst."
     },
     "4": {
       "default": "Banned acount trying to link account",
-      "translated": ""
+      "translated": "Es wurde versucht einen gesperrten Account zu verknuepfen"
     },
     "5": {
       "default": "An on SquadStats banned account have tried to link their account.",
-      "translated": ""
+      "translated": "Ein auf SquadStats gesperrter Account versucht seinen Account zu verbinden."
     },
     "6": {
       "default": "Name:",
-      "translated": ""
+      "translated": "Name:"
     },
     "7": {
       "default": "SteamID:",
-      "translated": ""
+      "translated": "SteamID:"
     },
     "8": {
       "default": "DiscordID:",
-      "translated": ""
+      "translated": "DiscordID:"
     },
     "9": {
       "default": "Last IP:",
-      "translated": ""
+      "translated": "Letzte IP:"
     },
     "10": {
       "default": "Banned:",
-      "translated": ""
+      "translated": "Gesperrt:"
     },
     "11": {
       "default": "Reason:",
-      "translated": ""
+      "translated": "Grund:"
     }
   },
   "linkaccount": {
     "1": {
       "default": "Account linking.",
-      "translated": ""
+      "translated": "Account wird verbunden."
     },
     "2": {
       "default": "You already linked your account in an other community.",
-      "translated": ""
+      "translated": "Dein Account wurde bereits mit einer anderen Community verknuepft."
     },
     "3": {
       "default": "AutoLink completed.",
-      "translated": ""
+      "translated": "Auto-Verknuepfung abgeschlossen."
     },
     "4": {
       "default": "Your account is now also linked for this community",
-      "translated": ""
+      "translated": "Dein Account ist jetzt auch mit dieser Community verknuepft"
     },
     "5": {
       "default": "Your linking code is:",
-      "translated": ""
+      "translated": "Dein Verknuepfungs-Code ist:"
     },
     "6": {
       "default": "How to link?",
-      "translated": ""
+      "translated": "Wie verknuepfe ich?"
     },
     "7": {
       "default": "Please use {command}",
-      "translated": ""
+      "translated": "Bitte nutze {command}"
     },
     "8": {
       "default": "in-game to link your account.",
-      "translated": ""
+      "translated": "In-Game um deinen Account zu verknuepfen."
     },
     "9": {
       "default": "This code is valid for 48 hours",
-      "translated": ""
+      "translated": "Dieser Code ist nutzbar fuer 48 Stunden"
     }
   },
   "linkaccountdirectmessage": {
     "1": {
       "default": "Thank you for using the SquadStats Bot!",
-      "translated": ""
+      "translated": "Danke, dass du den SquadStats Bot benutzt!"
     },
     "2": {
       "default": "Unfortunately, the {command} command cannot be used in a Direct Message to the bot yet.",
-      "translated": ""
+      "translated": "Leider kann der {command} command noch nicht in einer Direktnachricht an den Bot benutzt werden."
     },
     "3": {
       "default": "You can use the command in Discord servers that use SquadStats Bot.",
-      "translated": ""
+      "translated": "Du kannst diesen command auf Discord Servern verwenden die den SquadStats Bot benutzen."
     },
     "4": {
       "default": "Below are some (random) examples of communities using SquadStats",
-      "translated": ""
+      "translated": "Unten siehst du ein paar (random) Beispiele von Comunitys die SquadStats benutzen."
     }
   },
   "serverstatus": {
     "1": {
       "default": "Online Players:",
-      "translated": ""
-    },
+      "translated": "Spieler Online:"
     "2": {
       "default": "In queue:",
-      "translated": ""
+      "translated": "In der Warteschlange:"
     },
     "3": {
       "default": "Max players:",
-      "translated": ""
+      "translated": "Maximale Spieleranzahl:"
     },
     "4": {
       "default": "Map:",
-      "translated": ""
+      "translated": "Karte:"
     },
     "5": {
       "default": "Game mode:",
-      "translated": ""
+      "translated": "Spielmodus:"
     },
     "6": {
       "default": "Map Duration:",
-      "translated": ""
+      "translated": "Spielduration:"
     },
     "7": {
       "default": "Next map:",
-      "translated": ""
+      "translated": "Naechste Karte:"
     },
     "8": {
       "default": "Current map:",
-      "translated": ""
+      "translated": "Aktuelle Map:"
     },
     "9": {
       "default": "Current Gamemode:",
-      "translated": ""
+      "translated": "Aktueller Spielmodus:"
     },
     "10": {
       "default": "Next map:",
-      "translated": ""
+      "translated": "Naechste Karte:"
     }
   },
   "serverstatus_map": {
     "1": {
       "default": "Current map:",
-      "translated": ""
+      "translated": "Aktuelle Karte:"
     },
     "2": {
       "default": "Current Gamemode:",
-      "translated": ""
+      "translated": "Aktueller Spielmodus:"
     },
     "3": {
       "default": "Next map:",
-      "translated": ""
+      "translated": "Naechste Karte:"
     }
   },
   "serverstatus_player": {
     "1": {
       "default": "Online Players:",
-      "translated": ""
+      "translated": "Spieler Online:"
     },
     "2": {
       "default": "In queue:",
-      "translated": ""
+      "translated": "In der Warteschlange:"
     },
     "3": {
       "default": "Max players",
-      "translated": ""
+      "translated": "Maximale Spieleranzahl"
     }
   },
   "serverstatus_time": {
     "1": {
       "default": "Map Duration:",
-      "translated": ""
+      "translated": "Spielduration:"
     }
   },
   "serverstatus_nextmap": {
     "1": {
       "default": "Next Map:",
-      "translated": ""
+      "translated": "Naechste Karte:"
     }
   },
   "silentcontroller": {
     "1": {
       "default": "Control silent serverinformation messages",
-      "translated": ""
+      "translated": "Einstellungen für leise Server Informations Nachrichten"
     },
     "2": {
       "default": "Send server information.",
-      "translated": ""
+      "translated": "Sende Server Informationen."
     },
     "3": {
       "default": "Select option below.",
-      "translated": ""
+      "translated": "Waehle eine Option aus."
     },
     "4": {
       "default": "It will generate messages sended from the bot.",
-      "translated": ""
+      "translated": "Dies wird Nachrichten erstellen, die der Bot sendet."
     }
   },
   "medalsettings": {
     "1": {
       "default": "Here you will find the current Medal settings.",
-      "translated": ""
+      "translated": "Hier findest du die aktuellen Auszeichnungs-Einstellungen."
     },
     "2": {
       "default": "Current Settings:",
-      "translated": ""
+      "translated": "Aktuelle Einstellungen:"
     },
     "3": {
       "default": "Roles Regular:",
-      "translated": ""
+      "translated": "Standard-Rollen:"
     },
     "4": {
       "default": "Roles Seed:",
-      "translated": ""
+      "translated": "Seed-Rollen:"
     },
     "5": {
       "default": "Settings Changed",
-      "translated": ""
+      "translated": "Einstellungen geaendert"
     },
     "6": {
       "default": "Changed medal setting:",
-      "translated": ""
+      "translated": "Auszeichnungs-Einstellungen geaendert:"
     },
     "7": {
       "default": "Are you sure?!",
-      "translated": ""
+      "translated": "Bist du sicher?!"
     },
     "8": {
       "default": "Please confirm your action below.",
-      "translated": ""
+      "translated": "Bitte bestaetige deine Eingabe unten."
     },
     "9": {
       "default": "Press yes if you want the bot to create all the needed roles for the medal function.",
-      "translated": ""
+      "translated": "Klicke auf Ja, wenn du alle benoetigten Rollen fuer die Auszeichnungs-Funktionen erstellen moechtest."
     },
     "10": {
       "default": "It also will set the roleID's in medalsettings.",
-      "translated": ""
+      "translated": "Es werden ebenfalls die RollenIDs in den Auszeichnugs-Einstellungen festgelegt."
     },
     "11": {
       "default": "Creating medals.",
-      "translated": ""
+      "translated": "Erstelle Auszeichnungen."
     },
     "12": {
       "default": "The bot started creating the needed roles for the bots medalfunction.",
-      "translated": ""
+      "translated": "Der Bot hat mit der Erstellung der noetigen Rollen fuer die Auszeichnungs-Funktion des Bots begonnen."
     },
     "13": {
       "default": "It also will set the roleID's in medalsettings.",
-      "translated": ""
+      "translated": "Es werden ebenfalls die RollenIDs in den Auszeichnugs-Einstellungen festgelegt."
     },
     "14": {
       "default": "Check the current settings by clicking on the button bellow.",
-      "translated": ""
+      "translated": "Bitte pruefe die aktuellen Einstellungen indem du auf den Button unten klickst."
     },
     "15": {
       "default": "Sometimes the bot isnt able to create all roles at once, if that is the case, please retry.",
-      "translated": ""
+      "translated": "Manchmal kann der Bot nicht alle Rollen gleichdurationig erstellen, wenn dies passiert, starte die Erstellung erneut."
     },
     "16": {
       "default": "Missing permissions",
-      "translated": ""
+      "translated": "Fehlende Berechtigungen"
     },
     "17": {
       "default": "The bot is missing permissions to create new roles.",
-      "translated": ""
+      "translated": "Dem Bot fehlen Berechtigungen um neue Rollen zu erstellen."
     },
     "18": {
       "default": "Please check the permissions in discord.",
-      "translated": ""
+      "translated": "Bitte pruefe die Berechtigungen in Discord."
     },
     "19": {
       "default": "Needed permission is ``Manage Roles``",
-      "translated": ""
+      "translated": "Die benoetigte Berechtigung heisst ``Rollen verwalten``"
     }
   },
   "seedsettings": {
     "1": {
       "default": "Seed Settings Changed",
-      "translated": ""
+      "translated": "Seed-Einstellungen geaendert"
     },
     "2": {
       "default": "Changed setting:",
-      "translated": ""
+      "translated": "Einstellung geaendert:"
     },
     "3": {
       "default": "Automatic seed messages settings",
-      "translated": ""
+      "translated": "Automatische-Seed-Nachrichten Einstellung"
     },
     "4": {
       "default": "Here you find the current settings for **Automatic** seed bot.",
-      "translated": ""
+      "translated": "Hier findest du die aktuellen Einstellungen fuer **Automatisch** vom Seed-Bot."
     },
     "5": {
       "default": "Auto Seed\nweekdays:",
-      "translated": ""
+      "translated": "Auto Seed\nWochentage:"
     },
     "6": {
       "default": "Auto Seed\nFridays:",
-      "translated": ""
+      "translated": "Auto Seed\nFreitage:"
     },
     "7": {
       "default": "Auto seed\nWeekends:",
-      "translated": ""
+      "translated": "Auto\nWochenenden:"
     },
     "8": {
       "default": "Current seedchannel:",
-      "translated": ""
+      "translated": "Aktueller Seed-Kanal:"
     },
     "9": {
       "default": "Current ping groups:",
-      "translated": ""
+      "translated": "Aktuelle Ping-Gruppen:"
     },
     "10": {
       "default": "Automatic seed messages time",
-      "translated": ""
+      "translated": "duration fuer automatische Seed-Nachrichten"
     },
     "11": {
       "default": "Specified **Week** Time value is an incorrect time format.",
-      "translated": ""
+      "translated": "Festgelegter **Wochen** Wert ist im falschen duration-Format."
     },
     "12": {
       "default": "Please use ``HH:mm`` Ex. ``14:30``",
-      "translated": ""
+      "translated": "Bitte nutze ``HH:mm`` z.B. ``14:30``"
     },
     "13": {
       "default": "The timesetting is not changed.",
-      "translated": ""
+      "translated": "Die duration-Einstellungen wurden nicht veraendert."
     },
     "14": {
       "default": "Specified **Friday** Time value is an incorrect time format.",
-      "translated": ""
+      "translated": "Festgelegter **Freitag** Wert ist im falschen duration-Format."
     },
     "15": {
       "default": "Specified **Weekend** Time value is an incorrect time format.",
-      "translated": ""
+      "translated": "Festgelegter **Wochenende** Wert ist im falschen duration-Format."
     }
   },
   "botfunctions": {
     "1": {
       "default": "Bot Functions",
-      "translated": ""
+      "translated": "Bot Funktionen"
     },
     "2": {
       "default": "Bellow you can enable and disable bot functions.",
-      "translated": ""
+      "translated": "Hier unten kannst du die Bot Funktionen Ein- und Ausschalten."
     },
     "3": {
       "default": "Current settings changed!",
-      "translated": ""
+      "translated": "Aktuelle Einstellungen geaendert!"
     },
     "4": {
       "default": "The bot's {botfunction} function is now enabled.",
-      "translated": ""
+      "translated": "Die Funktion {Bot-Funktion} ist jetzt eingeschaltet."
     },
     "5": {
       "default": "The bot's {botfunction} function is now disabled.",
-      "translated": ""
+      "translated": "Die Funktion {Bot-Funktion} ist jetzt ausgeschaltet."
     }
   },
   "botsettings": {
     "1": {
       "default": "Current Settings",
-      "translated": ""
+      "translated": "Aktuelle Einstellungen"
     },
     "2": {
       "default": "Settings Changed",
-      "translated": ""
+      "translated": "Einstellungen geaendert"
     },
     "3": {
       "default": "Changed bot setting:",
-      "translated": ""
+      "translated": "Bot Einstellung geaendert:"
     }
   },
   "seedcontroller": {
     "1": {
       "default": "Automatic seed messages settings",
-      "translated": ""
+      "translated": "Einstellung für automatische Seed-Nachrichten"
     },
     "9": {
       "default": "{option} Will send 1 (one) seed message and update it.",
-      "translated": ""
+	"translated": "[option} Sendet eine Seed-Nachricht und aktualisiert sie."
     },
     "5": {
       "default": "Auto Seed\nweekdays:",
-      "translated": ""
+      "translated": "Auto Seed\nWochentage:"
     },
     "6": {
       "default": "Auto Seed\nFridays:",
-      "translated": ""
+      "translated": "Auto Seed\nFreitage:"
     },
     "7": {
       "default": "Auto seed\nWeekends:",
-      "translated": ""
+      "translated": "Auto Seed\nWochenenden:"
     },
     "2": {
       "default": "Current settings for **Automatic** seed messages.",
-      "translated": ""
+      "translated": "Aktuelle Einstellungen fuer **Automatik** Seed Nachrichten."
     },
     "3": {
       "default": "Here you can turn the automatic seed messages on or off.",
-      "translated": ""
+      "translated": "Hier kannst du die automatischen Seed Nachrichten ein- und ausschalten."
     },
     "4": {
       "default": "The bot will start sending messages on the set time.",
-      "translated": ""
+      "translated": "Der Bot wird Nachrichten zur eingestellten duration senden."
     },
     "8": {
       "default": "Additional changes can be made using the {command} command.",
-      "translated": ""
+      "translated": "Zusaetzliche Aenderungen koennen mit dem {command} command gemacht werden."
     },
     "10": {
       "default": "{option} Will send new message at all updates.",
-      "translated": ""
+      "translated": "{option} Wird neue Nachrichten bei allen Updates senden."
     },
     "11": {
       "default": "Here you find the current settings for **Automatic** seed bot.",
-      "translated": ""
+      "translated": "Aktuelle Einstellungen fuer **Automatik** Seed-Bot."
     },
     "12": {
       "default": "Current seedchannel",
-      "translated": ""
+      "translated": "Aktueller Seed-Kanal"
     },
     "13": {
       "default": "Auto Delete seed messages",
-      "translated": ""
+      "translated": "Automatisches Loeschen von Seed-Nachrichten"
     },
     "14": {
       "default": "Automatic seed messages has turned On",
-      "translated": ""
+      "translated": "Automatische Seed Nachrichten wurden eingeschaltet"
     },
     "15": {
       "default": "Automatic seed messages has turned Off",
-      "translated": ""
+      "translated": "Automatische Seed Nachrichten wurden ausgeschaltet"
     },
     "16": {
       "default": "Automatic seed messages controller",
-      "translated": ""
+      "translated": "Steuerung fuer automatische Seed Nachrichten"
     },
     "17": {
       "default": "Control the Automatic seed messages",
-      "translated": ""
+      "translated": "Steuert die automatischen Seed Nachrichten"
     },
     "18": {
       "default": "Seed bot started",
-      "translated": ""
+      "translated": "Der Seed-Bot wurde gestartet"
     },
     "19": {
       "default": "It will generate messages until match is live",
-      "translated": ""
+      "translated": "Der Bot wird Nachrichten senden bis das Match live ist"
     },
     "20": {
       "default": "Seed bot stopped",
-      "translated": ""
+      "translated": "Der Seed-Bot wurde gestoppt"
     },
     "21": {
       "default": "The seed bot stopped generating messages",
-      "translated": ""
+      "translated": "Der Seed-Bot hat aufgehoert Nachrichten zu senden"
     },
     "22": {
       "default": "Seed bot deleted all messages.",
-      "translated": ""
+      "translated": "Der Seed-Bot hat alle Nachrichten geloescht."
     },
     "23": {
       "default": "The seed bot cleared the seeding channel.",
-      "translated": ""
+      "translated": "Der Seed-Bot hat den Seed-Kanal bereinigt."
     },
     "24": {
       "default": "Manual seedbot controller",
-      "translated": ""
+      "translated": "Steuerung fuer den manuellen Seed-Bot"
     },
     "25": {
       "default": "Here you are able to control the seed bot manually, you can start the seeding process here directly.",
-      "translated": ""
+      "translated": "Hier kannst du den Seed-Bot manuell bedienen und die Seeding-Prozesse manuell starten."
     },
     "26": {
       "default": "Probably because you want to start seeding earlier or at a different time.",
-      "translated": ""
+      "translated": "Wahrscheinlich weil du das Seeding frueher oder zu einer anderen duration starten moechtest."
     },
     "27": {
       "default": "{option} Will send 1 (one) seed message and update it.",
-      "translated": ""
+      "translated": "{option} Wird eine Seed-Nachricht senden und aktualisieren."
     },
     "28": {
       "default": "{option} Will send new message at all updates.",
-      "translated": ""
+      "translated": "{option} Wird neue Nachrichten bei allen Updates senden."
     }
   },
   "leaderboard": {
     "1": {
       "default": "Leaderboard {leaderboardoption} AllTime.",
-      "translated": ""
+      "translated": "Bestenliste {leaderboardoption} Gesamt."
     },
     "2": {
       "default": "Leaderboard {leaderboardoption} for the Last 30 days.",
-      "translated": ""
+      "translated": "Bestenliste {leaderboardoption} der letzen 30 Tage."
     },
     "3": {
       "default": "Leaderboard {leaderboardoption} for last week.",
-      "translated": ""
+      "translated": "Bestenliste {leaderboardoption} der letzten Woche."
     },
     "4": {
       "default": "Leaderboard {leaderboardoption} for the last 24h.",
-      "translated": ""
+      "translated": "Bestenliste {leaderboardoption} der letzten 24 Stunden."
     },
     "5": {
       "default": "TOP 10",
-      "translated": ""
+      "translated": "Top 10"
     },
     "6": {
       "default": "Kills",
-      "translated": ""
+      "translated": "Abschuesse"
     },
     "7": {
       "default": "and",
-      "translated": ""
+      "translated": "und"
     },
     "8": {
       "default": "deaths",
-      "translated": ""
+      "translated": "Tode"
     }
   },
   "help_serverstatus": {
     "1": {
       "default": "Command:\n{command} {commandoption}``",
-      "translated": ""
+      "translated": "command:\n{command} {commandoption}"
     },
     "2": {
       "default": "{optionall}: Return all server status information.",
-      "translated": ""
+      "translated": "{optionall}: Zeige alle Server Status Informationen."
     },
     "3": {
       "default": "{optionmap}: Return current map information.",
-      "translated": ""
+      "translated": "{optionmap}: Zeige Informationen zur aktuellen Karte."
     },
     "4": {
       "default": "{optionnextmap}: Return next map information.",
-      "translated": ""
+      "translated": "{optionnextmap}: Zeige Informationen zur naechsten Karte."
     },
     "5": {
       "default": "{optionplayers}: Return current player amount information.",
-      "translated": ""
+      "translated": "{optionplayers}: Aktuelle Spieleranzahl anzeigen."
     },
     "6": {
       "default": "{optiontime}: Return current game duration information.",
-      "translated": ""
+      "translated": "{optiontime}: Zeige verstrichene Spielduration an."
     },
     "7": {
       "default": "If no {option} is selected, the default is {optionall}.",
-      "translated": ""
+      "translated": "Wenn keine {option} getroffen wurde, ist der Standard {optionalle}. "
     },
     "8": {
       "default": "Examples:",
-      "translated": ""
+      "translated": "Beispiele:"
     },
     "9": {
       "default": "{command}: Return all server information.",
-      "translated": ""
+      "translated": "{command}: Zeige alle Server Informationen."
     },
     "10": {
       "default": "{Command} {optionall}: Return all server information.",
-      "translated": ""
+      "translated": "{command} {optionalle}: Zeige alle Server Informationen."
     },
     "11": {
       "default": "{Command} {optionmap}: Return current map information.",
-      "translated": ""
+      "translated": "{command} {optionkarte}: Zeige Informationen zur aktuellen Karte."
     }
   },
   "help_statsbot": {
     "1": {
       "default": "Instructions on how to use the bot for playerstats.",
-      "translated": ""
+      "translated": "Anleitungen zur Benutzung des Bots fuer Spielerstatistiken."
     },
     "2": {
       "default": "Below you will find information on how to use the Statsbot.",
-      "translated": ""
+      "translated": "Unten findest du Informationen wie du den Statsbot benutzt."
     },
     "3": {
       "default": "You also find a list with all the available options.",
-      "translated": ""
+      "translated": "Du findest ebenfalls eine Liste mit allen verfuegbaren Optionen."
     },
     "4": {
       "default": "Command:\n{command} {commandoption1} {commandoption2}``",
-      "translated": ""
+      "translated": "command:\n{command} {commandoption1} {commandoption2}``"
     },
     "5": {
       "default": "Return Player stats information",
-      "translated": ""
+      "translated": "Zeige Spielerstatistik-Informationen"
     },
     "6": {
       "default": "Return Player by id stats information",
-      "translated": ""
+      "translated": "Zeige Statistikinformationen eines Spielers über die ID"
     },
     "7": {
       "default": "Return Player weapon stats information",
-      "translated": ""
+      "translated": "Zeige Spieler-Waffenstatistiken"
     },
     "8": {
       "default": "Return server stats information",
-      "translated": ""
+      "translated": "Zeige Server-Statistik-Informationen"
     },
     "9": {
       "default": "Return Player Top 10 player information",
-      "translated": ""
+      "translated": "Zeige Top 10 Spieler Informationen"
     },
     "10": {
       "default": "{duration}: Return all time stats",
-      "translated": ""
+      "translated": "{duration}: Zeige Gesamtstatistiken"
     },
     "11": {
       "default": "{duration}: Return montly stats. (30 days)",
-      "translated": ""
+      "translated": "{duration}: Zeige monatliche Statistiken. (30 Tage)"
     },
     "12": {
       "default": "{duration}: Return weekly stats. (7 days)",
-      "translated": ""
+      "translated": "{duartion}: Zeige monatliche Statistiken. (7 Tage)"
     },
     "13": {
       "default": "{duration}: Return daily stats. (24 hour)",
-      "translated": ""
+      "translated": "{duration}: Zeige taegliche Statistiken. (24 Stunden)"
     },
     "14": {
       "default": "If no {option} option is selected, the default is {duration}.",
-      "translated": ""
+      "translated": "Wenn keine {option} Auswahl getroffen worden ist, wird der Standard {duartion] genutzt."
     },
     "15": {
       "default": "{seedoption}: Return stats with seeding data.",
-      "translated": ""
+      "translated": "{seedoption]: Zeige Statistiken inklusive Seeding-Daten."
     },
     "16": {
       "default": "{seedoption}: Return stats with only seeding data.",
-      "translated": ""
+      "translated": "{seedoption}: Zeige Statistiken nur mit Seeding-Daten."
     },
     "17": {
       "default": "{seedoption}: Return stats without seeding data.",
-      "translated": ""
+      "translated": "{seedoption}: Zeige Statistiken ohne Seeding-Daten."
     },
     "18": {
       "default": "If no {option} option is selected, the default is {seedoption}.",
-      "translated": ""
+      "translated": "Wenn keine {option} Auswahl getroffen worden ist, dann wird der Standard {seedoption} genutzt."
     }
   },
   "medals": {
     "1": {
       "default": "Player qualified for a medal!!",
-      "translated": ""
+      "translated": "Spieler hat eine Auszeichnung verdient!"
     },
     "2": {
       "default": "You qualified for a {medal} medal {user}!!",
-      "translated": ""
+      "translated": "Du hast dir eine {medal} Auszeichnung verdient {user}!"
     },
     "3": {
       "default": "You can claim the role/medal by using the command {command} in {channel}",
-      "translated": ""
+      "translated": "Du kannst dir die Rolle/Auszeichnung abholen, indem du den Befehl {command} in {channel} benutzt"
     },
     "4": {
       "default": "This also give you access to the {channel} channel.",
-      "translated": ""
+      "translated": "Das gibt dir ebenfalls Zugriff auf den {channel} Kanal."
     },
     "5": {
       "default": "You have earned a medal!",
-      "translated": ""
+      "translated": "Du hast dir eine Auszeichnung verdient!"
     },
     "6": {
       "default": "Congratulations {player}!!",
-      "translated": ""
+      "translated": "Glueckwunsch {player}!"
     },
     "7": {
       "default": "You have received the {medal} medal.",
-      "translated": ""
+      "translated": "Du hast die {medal} Auszeichnung verdient."
     },
     "8": {
       "default": "You will keep the medal at least till {time}",
-      "translated": ""
+      "translated": "Du behaelst die Auszeichnung bis mindestens {time}"
     },
     "9": {
       "default": "This also give you access to the {channel} channel.",
-      "translated": ""
+      "translated": "Das gibt dir ebenfalls Zugriff auf den {channel} Kanal."
     },
     "10": {
       "default": "An medal is earned!",
-      "translated": ""
+      "translated": "Es wurde eine Auszeichnung verdient!"
     },
     "11": {
       "default": "Congratulations to {player}!!",
-      "translated": ""
+      "translated": "Glueckwunsch an {player}!"
     },
     "12": {
       "default": "This player have received the {medal} medal.",
-      "translated": ""
+      "translated": "Dieser Spieler hat die {medal} Auszeichnung erhalten."
     },
     "13": {
       "default": "And will keep the medal at least till {time}",
-      "translated": ""
+      "translated": "und wird die Auszeichnung mindestens bis {time} behalten"
     },
     "14": {
       "default": "This also give you access to the {channel} channel.",
-      "translated": ""
+      "translated": "Das gibt dir ebenfalls Zugriff auf den {channel} Kanal."
     },
     "15": {
       "default": "Congratulations {player}!!",
-      "translated": ""
+      "translated": "Glueckwunsch {player}!"
     },
     "16": {
       "default": "Medal claim has expired!!",
-      "translated": ""
+      "translated": "Anspruch auf die Auszeichnung ist abgelaufen!"
     },
     "17": {
       "default": "The claim on your {medal} medal has expired {user}.",
-      "translated": ""
+      "translated": "Dein Anspruch auf die {medal] Auszeichnung ist abgelaufen {user}."
     },
     "18": {
       "default": "You can reclaim the role/medal by using the command {command} in {channel}",
-      "translated": ""
+      "translated": "Du kannst die Rolle/Asuzeichnung erneut beanspruchen, wenn du den Befehl {command} im {channel} benutzt"
     }
   },
   "seedbot": {
     "1": {
       "default": "We started Seeding! Come help us!",
-      "translated": ""
+      "translated": "Das Seeding hat begonnen! Komm unterstuetze uns!"
     }
   },
   "help_mysqstats": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Anleitungen wie du den Bot benutzt."
     },
     "2": {
       "default": "Below you will find information on how to use the {command} command.",
-      "translated": ""
+      "translated": "Unten findest du informationen wie du den {command} Befehl benutzt."
     },
     "3": {
       "default": "You also find a list with all the available options.",
-      "translated": ""
+      "translated": "Dort findest du ebenfalls eine Liste aller verfuegbaren Optionen."
     },
     "4": {
       "default": "Command:\n{command} {commandoption1} {commandoption2}``",
-      "translated": ""
+      "translated": "Befehl:\n{command} {commandoption1} {commandoption2}``"
     },
     "5": {
       "default": "{duration}: Return all time stats",
-      "translated": ""
+      "translated": "{duration}: Zeige Gesamtstatistiken"
     },
     "6": {
       "default": "{duration}: Return montly stats. (30 days)",
-      "translated": ""
+      "translated": "{duration}: Zeige monatliche Statistiken. (30 Tage)"
     },
     "7": {
       "default": "{duration}: Return weekly stats. (7 days)",
-      "translated": ""
+      "translated": "{duration}: Zeige woechentliche Statistiken. (7 Tage)"
     },
     "8": {
       "default": "{duration}: Return daily stats. (24 hour)",
-      "translated": ""
+      "translated": "{duration]: Zeige taegliche Statistiken. (24 Stunden)"
     },
     "9": {
       "default": "If no {option} option is selected, the default is {duration}.",
-      "translated": ""
+      "translated": "Wenn keine {option} Auswahl getroffen worden ist, dann wird der Standard {duration} genutzt."
     },
     "10": {
       "default": "{seedoption}: Return stats with seeding data.",
-      "translated": ""
+      "translated": "{seedoption}: Zeige Statistiken inlusive Seeding-Daten."
     },
     "11": {
       "default": "{seedoption}: Return stats with only seeding data.",
-      "translated": ""
+      "translated": "{seedoption}: Zeige Statistiken nur mit Seeding-Daten."
     },
     "12": {
       "default": "{seedoption}: Return stats without seeding data.",
-      "translated": ""
+      "translated": "{seedoption}: Zeige Statistiken ohne Seeding-Daten."
     },
     "13": {
       "default": "If no {option} option is selected, the default is {seedoption}.",
-      "translated": ""
+      "translated": "Wenn keine {option} Auswahl getroffen worden ist, dann wird der Standard {seedoption} genutzt."
     },
     "14": {
       "default": "Example:",
-      "translated": ""
+      "translated": "Beispiel:"
     },
     "15": {
       "default": "{command}: Return montly stats without seed data",
-      "translated": ""
+      "translated": "{command}: Zeige Statistiken inlusive Seeding-Daten. "
     },
     "16": {
       "default": "{command}: Return all stats without seed data",
-      "translated": ""
+      "translated": "{seedoption}: Zeige Statistiken ohne Seeding-Daten."
     },
     "17": {
       "default": "{command}: Return all stats with seed data",
-      "translated": ""
+      "translated": "{seedoption}: Zeige Statistiken nur mit Seeding-Daten."
     }
   },
   "help_mysqstatsbyid": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Anleitung zur Benutzung des Bots."
     },
     "2": {
       "default": "Below you will find information on how to use the {command} command.",
-      "translated": ""
+      "translated": "Unten findest du informationen wie du den {command} Befehl benutzt."
     },
     "3": {
       "default": "You also find a list with all the available options.",
-      "translated": ""
+      "translated": "Dort findest du ebenfalls eine Liste aller verfuegbaren Optionen."
     },
     "4": {
       "default": "Command:\n{command} {commandoption1} {commandoption2}``",
-      "translated": ""
+      "translated": "Befehl:\n{command} {commandoption1} {commandoption2}``"
     },
     "5": {
       "default": "{duration}: Return all time stats",
-      "translated": ""
+      "translated": "{duration}: Zeige Gesamtstatistiken"
     },
     "6": {
       "default": "{duration}: Return montly stats. (30 days)",
-      "translated": ""
+      "translated": "{duration}: Zeige monatliche Statistiken. (30 Tage)"
     },
     "7": {
       "default": "{duration}: Return weekly stats. (7 days)",
-      "translated": ""
+      "translated": "{duration}: Zeige woechentliche Statistiken. (7 Tage)"
     },
     "8": {
       "default": "{duration}: Return daily stats. (24 hour)",
-      "translated": ""
+      "translated": "{duration}: Zeige taegliche Statistiken. (24 Stunden)"
     },
     "9": {
       "default": "If no {option} option is selected, the default is {duration}.",
-      "translated": ""
+      "translated": "Wenn keine {option} Auswahl getroffen worden ist, dann wird der Standard {duration} genutzt."
     },
     "10": {
       "default": "{seedoption}: Return stats with seeding data.",
-      "translated": ""
+      "translated": "{seedoption}: Zeige Statistiken inklusive Seeding-Daten."
     },
     "11": {
       "default": "{seedoption}: Return stats with only seeding data.",
-      "translated": ""
+      "translated": "{seedoption}: Zeige Statistiken nur mit Seeding-Daten."
     },
     "12": {
       "default": "{seedoption}: Return stats without seeding data.",
-      "translated": ""
+      "translated": "{seedoption}: Zeige Statistiken ohne Seeding-Daten."
     },
     "13": {
       "default": "If no {option} option is selected, the default is {seedoption}.",
-      "translated": ""
+      "translated": "Wenn keine {option} Auswahl getroffen worden ist, dann wird der Standard {seedoption} genutzt."
     },
     "14": {
       "default": "Example:",
-      "translated": ""
+      "translated": "Beispiel:"
     },
     "15": {
       "default": "{command}: Return montly stats without seed data",
-      "translated": ""
+      "translated": "{command}: Zeige monatliche Statistiken ohne Seeding-Daten"
     },
     "16": {
       "default": "{command}: Return all stats without seed data",
-      "translated": ""
+      "translated": "{command}: Zeige Gesamtstatistiken ohne Seeding-Daten"
     },
     "17": {
       "default": "{command}: Return all stats with seed data",
-      "translated": ""
+      "translated": "{command}: Zeige Gesamtstatistiken inlusive Seeding-Daten"
     }
   },
   "help_linksqstats": {
     "1": {
       "default": "Instructions on how to link the statsbot.",
-      "translated": ""
+      "translated": "Anleitung zur Verknuepfung des Stat-Bots."
     },
     "2": {
       "default": "Below you will find information on how to link your account the {clanname} {botname}.",
-      "translated": ""
+      "translated": "Unten findest du Informationen wie du deinen Account mit dem {clanname} {botname} verknuepfst."
     },
     "3": {
       "default": "How to link your discord to you in-game account?",
-      "translated": ""
+      "translated": "Wie verknuepfst du deinen Discord mit deinem In-Game Account?"
     },
     "4": {
       "default": "Please use {command} in {statschannel} channel To receive a linkcode to link your account to an in-game account.",
-      "translated": ""
+      "translated": "Bitte nutze {command} im {statschannel} Kanal um einen Link zum Verknuepfen deines Accounts mit einem In-Game Account zu erhalten."
     },
     "5": {
       "default": "In reply to this command, you will receive the linkcode.",
-      "translated": ""
+      "translated": "Du bekommst den Link als Antwort auf diesen Befehl."
     },
     "6": {
       "default": "Following, start Squad, connect to our server and use {command} in-game to link your account.",
-      "translated": ""
+      "translated": "Starte danahc Squad, trete unserem Server bei und schreibe {command} in den Chat um deinen Account zu verknuepfen."
     }
   },
   "help_myweapons": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Anleitungen wie du den Bot benutzt."
     },
     "2": {
       "default": "Below you will find information on how to use the {command} command.",
-      "translated": ""
+      "translated": "Unten findest du informationen wie du den {command} Befehl benutzt."
     },
     "3": {
       "default": "You also find a list with all the available options.",
-      "translated": ""
+      "translated": "Dort findest du ebenfalls eine Liste aller verfuegbaren Optionen."
     },
     "4": {
       "default": "Command:\n{command} {commandoption1} {commandoption2}``",
-      "translated": ""
+      "translated": "Befehl:\n{command} {commandoption1} {commandoption2}``"
     },
     "5": {
       "default": "{duration}: Return all time stats",
-      "translated": ""
+      "translated": "{duration}: Zeige Gesamtstatistiken"
     },
     "6": {
       "default": "{duration}: Return montly stats. (30 days)",
-      "translated": ""
+      "translated": "{duration}: Zeige monatliche Statistiken. (30 Tage)"
     },
     "7": {
       "default": "{duration}: Return weekly stats. (7 days)",
-      "translated": ""
+      "translated": "{duration}: Zeige woechentliche Statistiken. (7 Tage)"
     },
     "8": {
       "default": "{duration}: Return daily stats. (24 hour)",
-      "translated": ""
+      "translated": "{duration}: Zeige taegliche Statistiken. (24 Stunden)"
     },
     "9": {
       "default": "If no {option} option is selected, the default is {duration}.",
-      "translated": ""
+      "translated": "Wenn keine {option} Auswahl getroffen worden ist, dann wird der Standard {duration} genutzt."
     },
     "10": {
       "default": "{seedoption}: Return stats with seeding data.",
-      "translated": ""
+      "translated": "{seedoption}: Zeige Statistiken inklusive Seeding-Daten."
     },
     "11": {
       "default": "{seedoption}: Return stats with only seeding data.",
-      "translated": ""
+      "translated": "{seedoption}: Zeige Statistiken nur mit Seeding-Daten."
     },
     "12": {
       "default": "{seedoption}: Return stats without seeding data.",
-      "translated": ""
+      "translated": "{seedoption}: Zeige Statistiken ohne Seeding-Daten."
     },
     "13": {
       "default": "If no {option} option is selected, the default is {seedoption}.",
-      "translated": ""
+      "translated": "Wenn keine {option} Auswahl getroffen worden ist, dann wird der Standard {seedoption} genutzt."
     },
     "14": {
       "default": "Example:",
-      "translated": ""
+      "translated": "Beispiel:"
     },
     "15": {
       "default": "{command}: Return montly stats without seed data",
-      "translated": ""
+      "translated": "{command}: Zeige monatliche Statistiken ohne Seeding-Daten"
     },
     "16": {
       "default": "{command}: Return all stats without seed data",
-      "translated": ""
+      "translated": "{command}: Zeige Gesamtstatistiken ohne Seeding-Daten"
     },
     "17": {
       "default": "{command}: Return all stats with seed data",
-      "translated": ""
+      "translated": "{command}: Zeige Gesamtstatistiken mit Seeding-Daten"
     }
   },
   "help_serverstats": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Anleitungen wie du den Bot benutzt."
     },
     "2": {
       "default": "Below you will find information on how to use the {command} command.",
-      "translated": ""
+      "translated": "Unten findest du informationen wie du den {command} Befehl benutzt."
     },
     "3": {
       "default": "You also find a list with all the available options.",
-      "translated": ""
+      "translated": "Dort findest du ebenfalls eine Liste aller verfuegbaren Optionen."
     },
     "4": {
       "default": "Command:\n{command} {commandoption1} {commandoption2}``",
-      "translated": ""
+      "translated": "Befehl:\n{command} {commandoption1} {commandoption2}``"
     },
     "5": {
       "default": "{duration}: Return all time stats",
-      "translated": ""
+      "translated": "{duration}: Zeige Gesamtstatistiken"
     },
     "6": {
       "default": "{duration}: Return montly stats. (30 days)",
-      "translated": ""
+      "translated": "{duration}: Zeige monatliche Statistiken. (30 Tage)"
     },
     "7": {
       "default": "{duration}: Return weekly stats. (7 days)",
-      "translated": ""
+      "translated": "{duration}: Zeige woechentliche Statistiken. (7 Tage)"
     },
     "8": {
       "default": "{duration}: Return daily stats. (24 hour)",
-      "translated": ""
+      "translated": "{duration}: Zeige taegliche Statistiken. (24 Tage)"
     },
     "9": {
       "default": "If no {option} option is selected, the default is {duration}.",
-      "translated": ""
+      "translated": "Wenn keine {option} Auswahl getroffen worden ist, dann wird der Standard {duration} genutzt."
     },
     "10": {
       "default": "{seedoption}: Return stats with seeding data.",
-      "translated": ""
+      "translated": "{seedoption}: Zeige Statistiken mit Seeding-Daten."
     },
     "11": {
       "default": "{seedoption}: Return stats with only seeding data.",
-      "translated": ""
+      "translated": "{seedoption}: Zeige Statistiken nur mit Seeding-Daten."
     },
     "12": {
       "default": "{seedoption}: Return stats without seeding data.",
-      "translated": ""
+      "translated": "{seedoption}: Zeige Statistiken ohne Seeding-Daten."
     },
     "13": {
       "default": "If no {option} option is selected, the default is {seedoption}.",
-      "translated": ""
+      "translated": "Wenn keine {option} Auswahl getroffen worden ist, dann wird der Standard {seedoption} genutzt."
     },
     "14": {
       "default": "Example:",
-      "translated": ""
+      "translated": "Beispiel:"
     },
     "15": {
       "default": "{command}: Return montly stats without seed data",
-      "translated": ""
+      "translated": "{command}: Zeige monatliche Statistiken ohen Seeding-Daten"
     },
     "16": {
       "default": "{command}: Return all stats without seed data",
-      "translated": ""
+      "translated": "{command}: Zeige Gesamtstatistiken ohne Seeding-Daten"
     },
     "17": {
       "default": "{command}: Return all stats with seed data",
-      "translated": ""
+      "translated": "{command}: Zeige Gesamtstatistiken inklusive Seeding-Daten"
     }
   },
   "help_leaderboard": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Anleitungen wie du den Bot benutzt."
     }
   },
   "help_setupbot": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Anleitungen wie du den Bot benutzt."
     }
   },
   "help_botsettings": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Anleitungen wie du den Bot benutzt."
     }
   },
   "help_seedsettings": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Anleitungen wie du den Bot benutzt."
     }
   },
   "help_seedcontroller": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Anleitungen wie du den Bot benutzt."
     }
   },
   "help_silentcontroller": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Anleitungen wie du den Bot benutzt."
     }
   },
   "help_seedbot": {
     "1": {
       "default": "Automatic seed messages help",
-      "translated": ""
+      "translated": "Hilfe fuer automatische Seed-Nachrichten"
     }
   },
   "help_errors": {
     "1": {
       "default": "Error using the help command.",
-      "translated": ""
+      "translated": "Fehler bei Nutzung des Hilfe-Befehls."
     },
     "2": {
       "default": "Please use only one of the two options for the help command.",
-      "translated": ""
+      "translated": "Bitte nutze nur eins der beiden Auswahlmoeglichkeiten fuer den Hilfe-Befehl."
     },
     "3": {
       "default": "Only {botoption} or {commandoption}.",
-      "translated": ""
+      "translated": "Nur {botoption} oder {commandoption}."
     },
     "4": {
       "default": "Or select the help subject below.",
-      "translated": ""
+      "translated": "Oder wähle unten ein Hilfethema aus."
     }
   },
   "disabled_function": {
     "1": {
       "default": "This function is disabled by this community.",
-      "translated": ""
+      "translated": "Die Funktion ist in dieser Community nicht verfuegbar."
     },
     "2": {
       "default": "For more information ask an admin, they have the option of activating this function if they wish.",
-      "translated": ""
+      "translated": "Wende dich fuer mehr Informationen an einen Admin. Sie haben die Moeglichkeit diese Funktion zu aktivieren wenn es gewuenscht ist."
     }
   }
 }
